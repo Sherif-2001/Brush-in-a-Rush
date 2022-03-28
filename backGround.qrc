@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Logo.PNG</file>
+        <file>Logo.jpg</file>
+        <file>painter start.jpg</file>
+        <file>icons/add-file.png</file>
+        <file>icons/close.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/eraser.png</file>
+        <file>icons/icons8-filled-circle-100.png</file>
+        <file>icons/icons8-line-100.png</file>
+        <file>icons/icons8-rectangle-100.png</file>
+        <file>icons/open-folder.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/save.png</file>
+        <file>icons/search.png</file>
+        <file>icons/undo.png</file>
+        <file>icons/painting-1.png</file>
+        <file>icons/sort.png</file>
+        <file>icons/cleaning.png</file>
+        <file>icons/artist.png</file>
+        <file>icons/colored-pencils.png</file>
+        <file>icons/pencil-and-ruler.png</file>
+        <file>icons/paint-bucket.png</file>
+    </qresource>
+    <qresource prefix="/icons"/>
+</RCC>

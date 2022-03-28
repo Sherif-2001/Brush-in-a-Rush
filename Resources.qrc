@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>icons/add-file.png</file>
+        <file>icons/close.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/eraser.png</file>
+        <file>icons/icons8-filled-circle-100.png</file>
+        <file>icons/icons8-line-100.png</file>
+        <file>icons/icons8-rectangle-100.png</file>
+        <file>icons/open-folder.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/save.png</file>
+        <file>icons/search.png</file>
+        <file>icons/undo.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

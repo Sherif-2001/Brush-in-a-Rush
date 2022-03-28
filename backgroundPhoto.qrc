@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../painter start.jpg</file>
+        <file>painter start.jpg</file>
+    </qresource>
+</RCC>
