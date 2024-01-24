@@ -1,8 +1,4 @@
-<h1 align="center">
- <strong>PaintQT</strong>
- <br/><br/>
-</h1>
-
+# PaintQt
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -17,14 +13,14 @@ Application which looks, and behave like Paint known from Windows OS.
 Draw shapes, fill them with color or erase them. Rescale, and zoom your picture.
 
 ## Features
-* Draw a line, triangle, circle, rectangle
-* Change pen size, customize color
-* Fill shapes with color
-* Eraser
-* Zoom, and scale picture
-* Fullscreen view
-* Open/Save image in various formats
-* Cut/Copy/Paste image
+1. Draw a line, triangle, circle, rectangle
+2.  Change pen size, customize color
+3.   Fill shapes with color
+4.    Eraser
+5. Zoom, and scale picture
+6.  Fullscreen view
+7.   Open/Save image in various formats
+8.    Cut/Copy/Paste image
 
 ## Screenshots
 <p align="center">
@@ -32,11 +28,9 @@ Draw shapes, fill them with color or erase them. Rescale, and zoom your picture.
 </p>
 
 ## Technologies
-* Qt Creator 4.11.0
-* Qt 5.14.0 
-* C++
-
-Application tested on Windows 10
+- Qt Creator 4.11.0
+- Qt 5.14.0 
+- C++
 
 ## Launch
 1. Download [Qt Creator](https://www.qt.io/offline-installers)
