@@ -1,4 +1,4 @@
-# PaintQt
+# Brush in a Rush: Painting App
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -9,8 +9,8 @@
 * [License](#license)
 
 ## Introduction
-Application which looks, and behave like Paint known from Windows OS. 
-Draw shapes, fill them with color or erase them. Rescale, and zoom your picture.
+Developed an interactive graphics application inspired by the iconic Paint from Windows OS using Qt C++. Implemented features include drawing shapes, filling them with color, erasing, and advanced functionalities like rescaling and zooming for precise editing.
+
 
 ## Features
 1. Draw a line, triangle, circle, rectangle
